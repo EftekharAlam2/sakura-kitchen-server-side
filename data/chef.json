@@ -8,7 +8,7 @@
     "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
     "recipes": [
       {
-        "name": "Tonkotsu Ramen",
+        "recipe_name": "Tonkotsu Ramen",
         "ingredients": [
           "pork bones",
           "garlic",
@@ -26,7 +26,7 @@
         "rating": 4.5
       },
       {
-        "name": "Miso Ramen",
+        "recipe_name": "Miso Ramen",
         "ingredients": [
           "miso paste",
           "chicken stock",
@@ -42,7 +42,7 @@
         "rating": 4.3
       },
       {
-        "name": "Shoyu Ramen",
+        "recipe_name": "Shoyu Ramen",
         "ingredients": [
           "chicken broth",
           "soy sauce",
@@ -114,7 +114,7 @@
     "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
     "recipes": [
       {
-        "name": "Tonkotsu Ramen",
+        "recipe_name": "Tonkotsu Ramen",
         "ingredients": [
           "pork bones",
           "garlic",
@@ -132,7 +132,7 @@
         "rating": 4.5
       },
       {
-        "name": "Miso Ramen",
+        "recipe_name": "Miso Ramen",
         "ingredients": [
           "miso paste",
           "chicken stock",
@@ -148,7 +148,7 @@
         "rating": 4.3
       },
       {
-        "name": "Shoyu Ramen",
+        "recipe_name": "Shoyu Ramen",
         "ingredients": [
           "chicken broth",
           "soy sauce",
@@ -213,7 +213,7 @@
   },
   {
     "id": "4",
-    "name": "Takumi Sato",
+    "recipe_name": "Takumi Sato",
     "experience": 3,
     "recipes_number": 87,
     "likes": "Ramen",
@@ -238,7 +238,7 @@
         "rating": 4.5
       },
       {
-        "name": "Miso Ramen",
+        "recipe_name": "Miso Ramen",
         "ingredients": [
           "miso paste",
           "chicken stock",
@@ -254,7 +254,7 @@
         "rating": 4.3
       },
       {
-        "name": "Shoyu Ramen",
+        "recipe_name": "Shoyu Ramen",
         "ingredients": [
           "chicken broth",
           "soy sauce",
