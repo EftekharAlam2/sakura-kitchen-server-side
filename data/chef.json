@@ -5,7 +5,7 @@
     "experience": 15,
     "recipes_number": 87,
     "likes": "Ramen",
-    "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
+    "short_bio": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
     "recipes": [
       {
         "recipe_name": "Tonkotsu Ramen",
@@ -111,7 +111,7 @@
     "experience": 8,
     "recipes_number": 87,
     "likes": "Ramen",
-    "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
+    "short_bio": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
     "recipes": [
       {
         "recipe_name": "Tonkotsu Ramen",
@@ -213,14 +213,14 @@
   },
   {
     "id": "4",
-    "recipe_name": "Takumi Sato",
+    "name": "Takumi Sato",
     "experience": 3,
     "recipes_number": 87,
     "likes": "Ramen",
-    "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
+    "short_bio": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
     "recipes": [
       {
-        "name": "Tonkotsu Ramen",
+        "recipe_name": "Tonkotsu Ramen",
         "ingredients": [
           "pork bones",
           "garlic",
